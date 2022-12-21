@@ -8,9 +8,9 @@ programs yourself, so any can be downloaded and run independantly as long as the
 Required filepath: 
 
 |-mk4652 folder <br>
-|--Data
-|---all data files
-|--Code
-|---all code files (requires all data files to be downloaded)
-|--Images
-|---all images (required for HTML webpage rendering)
+|--Data <br>
+|---all data files <br>
+|--Code <br>
+|---all code files (requires all data files to be downloaded) <br>
+|--Images <br>
+|---all images (required for HTML webpage rendering) <br>
